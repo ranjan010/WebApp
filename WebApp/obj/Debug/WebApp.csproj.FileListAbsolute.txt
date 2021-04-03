@@ -1,0 +1,163 @@
+D:\Dotnetprojects\WebApp\WebApp\bin\WebApp.dll.config
+D:\Dotnetprojects\WebApp\WebApp\bin\WebApp.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\WebApp.pdb
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\csc.exe
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\csc.exe.config
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\csc.rsp
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\csi.exe
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\csi.exe.config
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\csi.rsp
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Console.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Net.Http.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Net.Sockets.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\vbc.exe
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\vbc.exe.config
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\vbc.rsp
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+D:\Dotnetprojects\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Dotnetprojects\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\MyApp.Model.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\System.Web.Helpers.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\System.Web.Mvc.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\System.Web.Razor.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\System.Web.Webpages.Deployment.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\System.Web.Webpages.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\System.Web.Webpages.Razor.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\MyApp.Model.pdb
+D:\Dotnetprojects\WebApp\WebApp\bin\System.Web.Razor.xml
+D:\Dotnetprojects\WebApp\WebApp\bin\System.Web.Webpages.xml
+D:\Dotnetprojects\WebApp\WebApp\bin\System.Web.Webpages.Deployment.xml
+D:\Dotnetprojects\WebApp\WebApp\bin\System.Web.Webpages.Razor.xml
+D:\Dotnetprojects\WebApp\WebApp\bin\System.Web.Helpers.xml
+D:\Dotnetprojects\WebApp\WebApp\bin\System.Web.Mvc.xml
+D:\Dotnetprojects\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dotnetprojects\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+D:\Dotnetprojects\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+D:\Dotnetprojects\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+D:\Dotnetprojects\WebApp\WebApp\obj\Debug\WebApp.dll
+D:\Dotnetprojects\WebApp\WebApp\obj\Debug\WebApp.pdb
+D:\Dotnetprojects\WebApp\WebApp\bin\MyApp.Db.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\EntityFramework.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\MyApp.Db.pdb
+D:\Dotnetprojects\WebApp\WebApp\bin\MyApp.Db.dll.config
+D:\Dotnetprojects\WebApp\WebApp\bin\EntityFramework.xml
+D:\Dotnetprojects\WebApp\WebApp\bin\EntityFramework.SqlServer.dll
+D:\Dotnetprojects\WebApp\WebApp\bin\EntityFramework.SqlServer.xml
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\WebApp.dll.config
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\WebApp.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\WebApp.pdb
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\csc.exe
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\csc.exe.config
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\csc.rsp
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\csi.exe
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\csi.exe.config
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\csi.rsp
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Console.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Net.Http.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Net.Sockets.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\vbc.exe
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\vbc.exe.config
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\vbc.rsp
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\EntityFramework.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\EntityFramework.SqlServer.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\MyApp.Db.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\MyApp.Model.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\System.Web.Helpers.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\System.Web.Mvc.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\System.Web.Razor.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\System.Web.Webpages.Deployment.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\System.Web.Webpages.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\System.Web.Webpages.Razor.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\MyApp.Db.pdb
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\MyApp.Db.dll.config
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\MyApp.Model.pdb
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\EntityFramework.xml
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\EntityFramework.SqlServer.xml
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\System.Web.Razor.xml
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\System.Web.Webpages.xml
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\System.Web.Webpages.Deployment.xml
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\System.Web.Webpages.Razor.xml
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\System.Web.Helpers.xml
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\System.Web.Mvc.xml
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\None PF\Dotnetprojects\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+D:\None PF\Dotnetprojects\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+D:\None PF\Dotnetprojects\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+D:\None PF\Dotnetprojects\WebApp\WebApp\obj\Debug\WebApp.dll
+D:\None PF\Dotnetprojects\WebApp\WebApp\obj\Debug\WebApp.pdb
+D:\None PF\Dotnetprojects\WebApp\WebApp\bin\MyApp.Model.dll.config

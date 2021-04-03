@@ -1,0 +1,18 @@
+D:\Dotnetprojects\WebApp\MyApp.Model\bin\Debug\MyApp.Model.dll
+D:\Dotnetprojects\WebApp\MyApp.Model\bin\Debug\MyApp.Model.pdb
+D:\Dotnetprojects\WebApp\MyApp.Model\obj\Debug\MyApp.Model.csproj.CoreCompileInputs.cache
+D:\Dotnetprojects\WebApp\MyApp.Model\obj\Debug\MyApp.Model.dll
+D:\Dotnetprojects\WebApp\MyApp.Model\obj\Debug\MyApp.Model.pdb
+D:\Dotnetprojects\WebApp\MyApp.Model\obj\Debug\MyApp.Model.csprojAssemblyReference.cache
+D:\None PF\Dotnetprojects\WebApp\MyApp.Model\bin\Debug\MyApp.Model.dll
+D:\None PF\Dotnetprojects\WebApp\MyApp.Model\bin\Debug\MyApp.Model.pdb
+D:\None PF\Dotnetprojects\WebApp\MyApp.Model\obj\Debug\MyApp.Model.csprojAssemblyReference.cache
+D:\None PF\Dotnetprojects\WebApp\MyApp.Model\obj\Debug\MyApp.Model.csproj.CoreCompileInputs.cache
+D:\None PF\Dotnetprojects\WebApp\MyApp.Model\obj\Debug\MyApp.Model.dll
+D:\None PF\Dotnetprojects\WebApp\MyApp.Model\obj\Debug\MyApp.Model.pdb
+D:\None PF\Dotnetprojects\WebApp\MyApp.Model\bin\Debug\MyApp.Model.dll.config
+D:\None PF\Dotnetprojects\WebApp\MyApp.Model\bin\Debug\EntityFramework.dll
+D:\None PF\Dotnetprojects\WebApp\MyApp.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\None PF\Dotnetprojects\WebApp\MyApp.Model\bin\Debug\EntityFramework.xml
+D:\None PF\Dotnetprojects\WebApp\MyApp.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\None PF\Dotnetprojects\WebApp\MyApp.Model\obj\Debug\MyApp.Model.csproj.CopyComplete

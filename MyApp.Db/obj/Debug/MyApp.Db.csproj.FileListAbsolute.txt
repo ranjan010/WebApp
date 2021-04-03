@@ -1,0 +1,29 @@
+D:\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\MyApp.Db.dll.config
+D:\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\MyApp.Db.dll
+D:\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\MyApp.Db.pdb
+D:\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\EntityFramework.dll
+D:\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\MyApp.Model.dll
+D:\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\MyApp.Model.pdb
+D:\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\EntityFramework.xml
+D:\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dotnetprojects\WebApp\MyApp.Db\obj\Debug\MyApp.Db.csprojAssemblyReference.cache
+D:\Dotnetprojects\WebApp\MyApp.Db\obj\Debug\MyApp.Db.csproj.CoreCompileInputs.cache
+D:\Dotnetprojects\WebApp\MyApp.Db\obj\Debug\MyApp.Db.csproj.CopyComplete
+D:\Dotnetprojects\WebApp\MyApp.Db\obj\Debug\MyApp.Db.dll
+D:\Dotnetprojects\WebApp\MyApp.Db\obj\Debug\MyApp.Db.pdb
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\MyApp.Db.dll.config
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\MyApp.Db.dll
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\MyApp.Db.pdb
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\EntityFramework.dll
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\EntityFramework.SqlServer.dll
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\MyApp.Model.dll
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\MyApp.Model.pdb
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\EntityFramework.xml
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\EntityFramework.SqlServer.xml
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\obj\Debug\MyApp.Db.csprojAssemblyReference.cache
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\obj\Debug\MyApp.Db.csproj.CoreCompileInputs.cache
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\obj\Debug\MyApp.Db.csproj.CopyComplete
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\obj\Debug\MyApp.Db.dll
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\obj\Debug\MyApp.Db.pdb
+D:\None PF\Dotnetprojects\WebApp\MyApp.Db\bin\Debug\MyApp.Model.dll.config
